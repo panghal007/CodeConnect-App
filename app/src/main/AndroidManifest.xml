@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.rishav.instaclone">
+    package="com.unk.connectify">
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -12,17 +12,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".StoryActivity"></activity>
-        <activity android:name=".AddStoryActivity" />
-        <activity android:name=".OptionsActivity" />
-        <activity android:name=".FollowersActivity" />
-        <activity android:name=".EditProfileActivity" />
-        <activity android:name=".CommentsActivity" />
-        <activity android:name=".PostActivity" />
-        <activity android:name=".MainActivity" />
-        <activity android:name=".RegisterActivity" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".StartActivity">
+        <activity android:name="com.unk.connectify.StoryActivity"></activity>
+        <activity android:name="com.unk.connectify.AddStoryActivity" />
+        <activity android:name="com.unk.connectify.OptionsActivity" />
+        <activity android:name="com.unk.connectify.FollowersActivity" />
+        <activity android:name="com.unk.connectify.EditProfileActivity" />
+        <activity android:name="com.unk.connectify.CommentsActivity" />
+        <activity android:name="com.unk.connectify.PostActivity" />
+        <activity android:name="com.unk.connectify.MainActivity" />
+        <activity android:name="com.unk.connectify.RegisterActivity" />
+        <activity android:name="com.unk.connectify.LoginActivity" />
+        <activity android:name="com.unk.connectify.StartActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
