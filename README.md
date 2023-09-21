@@ -9,8 +9,6 @@
 
 *User can Follow/Unfollow a Profile/Page if interested in content.
 
-*User can Follow/Unfollow a Profile.
-
 *Users can search for specific usernames or hashtags through posts and profiles.
 
 *Real-time updates for immediate interaction.
