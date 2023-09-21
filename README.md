@@ -1,14 +1,14 @@
-# Connectify App
+# CodeConnect App
 
-*Android social networking application.
+*A social networking App for Programmers enabling content sharing and interaction within programming community.
 
 *Utilizes Firebase Realtime Database and Authentication.
 
 *User login with ID and password.
 
-*Image and post sharing within the community.
+Image and post sharing within the coding community.
 
-*User can Follow/Unfollow a Profile.
+User can Follow/Unfollow a Profile/Page if interested in content.
 
 *Users can search for specific usernames or hashtags through posts and profiles.
 
